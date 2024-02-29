@@ -1,0 +1,12 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+h1 {text-align: center; padding: 25px;}
+body {background: url(./resources/balloons.jpg);}
+* {font-family: monospace;}
+main {color: rgb(1, 235, 1);}
+main {padding: 50px; height: auto; background-color: rgb(255, 255, 255);}
+section {border: medium solid rgb(130, 130, 130); height: 200px; margin-bottom: 50px; padding: 15px; background-color: rgb(30, 30, 30); box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);}
+#musicButton {width: 90px; height: 90px; border-radius: 50%; text-align: center; background-color: rgb(255, 0, 0);}
+#musicButton {position: relative; top: 30px; left: 2%;}
+#musicButton {font-weight: 900;}
+.hoverBox:hover {color: rgb(30, 30, 30); background-color: rgb(1, 190, 1);}
+section a {color: white;}
